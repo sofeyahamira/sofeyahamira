@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sofeyahamira
+- 👀 I’m interested in Web Applications
+- 🌱 I’m currently learning Web Development
+- 😄 Pronouns: she/
